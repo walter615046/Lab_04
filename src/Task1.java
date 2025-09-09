@@ -37,6 +37,6 @@ public class Task1 {
         System.out.println("The difference using ints of  " + doubleOperandA + " and " + doubleOperandB + "  is  " + doubleDifference);
         System.out.println("The product using ints of  " + doubleOperandA + " and " + doubleOperandB + "  is  " + doubleProduct);
         System.out.println("The quotient using ints of  " + doubleOperandA + " and " + doubleOperandB + "  is  " + doubleQuotient);
-        System.out.println("The modulo using ints of " + doubleOperandA + " and " +  doubleOperandB + "  is  " + doubleModulo);
+        System.out.println("The modulo using ints of " + doubleOperandA + " and  " +  doubleOperandB + "  is  " + doubleModulo);
     }
 }
