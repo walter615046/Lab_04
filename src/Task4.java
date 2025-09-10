@@ -12,7 +12,7 @@ public static void main(String[] args) {
     monthTwoCost = monthOneCost+ (monthOneCost * INTEREST_RATE);
 
         //Output
-    System.out.println("Your credit card balance after one month is $" + monthOneCost);
-    System.out.println("Your credit card balance after two months is $" + monthTwoCost);
+     System.out.println("Your credit card balance after one month is $" + monthOneCost);
+     System.out.println("Your credit card balance after two months is $" + monthTwoCost);
 }
 }

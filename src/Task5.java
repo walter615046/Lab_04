@@ -15,7 +15,7 @@ Scanner scan= new Scanner(System.in);
         degreeCelsius= (degreeFahrenheit-32) * .555555555;
 
         //Output Celsius
-        System.out.println("The temperature in Celsius is " + degreeCelsius);
+         System.out.println("The temperature in Celsius is " + degreeCelsius);
 
 
 
