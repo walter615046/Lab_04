@@ -12,7 +12,7 @@ Scanner scan= new Scanner(System.in);
         //Ask user the price of purchase
         System.out.println("What is the price of your purchase?");
             itemCost=scan.nextDouble();//
-        totalCost= itemCost+(itemCost*SALES_TAX);
+            totalCost= itemCost+(itemCost*SALES_TAX);
 
         //Give user total cost
         System.out.println("Your total cost is $" + totalCost);
